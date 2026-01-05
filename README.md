@@ -25,16 +25,6 @@ I am a backend developer and infrastructure enthusiast focused on building high-
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bry4ns&show_icons=true&theme=radical&rank_icon=github" alt="Bry4ns GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bry4ns&layout=compact&theme=radical" alt="Bry4ns Top Languages" />
-</p>
-
----
-
 ### 📫 Connect with me
 - 🌍 **Project:** [PerHost](https://perhost.com)
 - 💼 **LinkedIn:** [linkedin.com/in/bry4ns](https://linkedin.com/in/bry4ns) - ✉️ **Email:** bryan05.belmar@gmail.com ---
