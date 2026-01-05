@@ -26,6 +26,6 @@ I am a backend developer and infrastructure enthusiast focused on building high-
 ---
 
 ### 📫 Connect with me
-- 🌍 **Project:** [PerHost](https://perhost.com)
+- 🌍 **Project:** [PerHost](https://perhost.app)
 - 💼 **LinkedIn:** [linkedin.com/in/bry4ns](https://linkedin.com/in/bry4ns) - ✉️ **Email:** bryan05.belmar@gmail.com ---
 *"The best way to predict the future is to invent it."*
